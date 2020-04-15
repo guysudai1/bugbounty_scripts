@@ -3,5 +3,5 @@ my bugbounty scripts
 
 
 ## TODO:
-[ ] Allow usage of the "custom" module
-[ ] Test program more
+- [ ] Allow usage of the "custom" module
+- [ ] Test program more
